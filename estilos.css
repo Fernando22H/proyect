@@ -1,0 +1,174 @@
+#intro{
+	background-color:#212024;
+}
+
+h1{
+	color:white;
+	text-align:right;
+	font-family: 'Roboto', sans-serif;
+	font-size:350%;
+	margin-right:30px;
+	
+}
+
+h2{
+	color:white;
+	text-align:right;
+	font-family: 'Roboto', sans-serif;
+	font-size:180%;
+	margin-right:30px;
+}
+
+img {
+	float:left;
+	height:250px;
+	border-radius: 50%;
+}
+
+body{
+	background-color:#B1B0B4;
+	margin-top:30px;
+	margin-left:30px;
+	margin-right:30px;
+}
+
+#datosyedu{
+	float:left;
+	width: 24%;
+	background-color: #212024;
+	
+}
+#datos{
+margin-left:20px;
+}
+#edu{
+margin-left:20px;
+}
+#relleno{
+	float:right;
+	width: 70%;
+	font-family: 'Roboto', sans-serif;
+	font-size:150%;
+	text-align:justify;
+	margin-right:30px;
+	margin-left:30px;
+}
+#exp1{
+	float:left;
+	width: 46%;
+	margin-left:30px;
+	font-size:150%;
+	
+}
+#exp2{
+	float:right;
+	width: 46%;
+	margin-right:30px;
+	font-size:150%;
+
+	
+}
+h3{
+	color:white;
+	font-size:130%;
+	}
+
+li{
+	color:white;
+}
+
+p{
+	color:white;
+}
+
+h4{
+	color:white;
+}
+
+nav a {
+font-weight: 600;
+padding-inline-end: 10px;
+float:right;
+color:white;
+text-decoration:none;
+font-weight:bold;
+
+}
+
+nav a:hover{
+    color: #D8B23F;
+	
+	
+}
+footer {
+	width:1260px;
+	height:150px;
+	background-color:#090661;
+    clear:both;
+	box-shadow:0px 0px 10px #fff;
+	-moz-box-shadow:0px 0px 30px #fff;
+	-webkit-box-shadow:0px 0px 30px #fff;
+}
+#redes {
+	color:#D8B23F;
+	font-size:larger;
+	text-align:center;
+	padding-top:10px;
+}
+ul.datos li a{
+	text-decoration:none;
+	color:#b7850b;
+	line-height:25px;
+}
+ul.datos li a:hover{
+	color:#DA7700;
+	font-size:15px;
+}
+#datos1 {
+	width:300px;
+	height:120px;
+	margin-left:120px;
+	float:left;
+	color:#fbf5c4;
+}
+#datos2 {
+	width:300px;
+	height:120px;
+	margin-right:120px;
+	float:right;
+	color:#fbf5c4;
+}
+form {
+  width: 50%;
+ margin: 0 auto;
+}
+
+label, input, textarea {
+display: block;
+margin-bottom: 10px;
+}
+
+input, textarea {
+padding: 5px;
+border-radius: 3px;
+border: 1px solid #ccc;
+font-size: 16px;
+}
+
+button {
+background-color: #231CFA;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 3px;
+font-size: 20px;
+cursor: pointer;
+}
+h5{
+	color:white;
+	text-align:center;
+	font-family: 'Roboto', sans-serif;
+	font-size:250%;
+	font-weight:bold;
+}
+
